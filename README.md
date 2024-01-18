@@ -10,6 +10,9 @@ In this paper, we provide:
 - Mathematical and numerical analysis showing the proposed algorithms' ability to reach near-optimal solutions with minimal optimality gaps.  
 - Numerical results highlighting the strengths and weaknesses of the proposed algorithms for resource management in MEC systems, and evaluating the impact of stochastic characteristics on MEC performance.
 
+## Paper
+[https://ieeexplore.ieee.org/document/10401241](https://ieeexplore.ieee.org/document/10401241)  
+
 ## MATLAB code  
 - [Demonstration of the Comparison Between Proposed Algorithms and the Exhaustive Search Algorithm](https://github.com/trinhudo/Stochastic-MEC/blob/main/main_full_demo.pdf)
 - Full code and results: [https://github.com/hieuhoanghust/MEC_WOA](https://github.com/hieuhoanghust/MEC_WOA)
